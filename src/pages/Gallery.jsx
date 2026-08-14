@@ -8,40 +8,40 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest 🌲🌫️",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
+      photos: ["/gallery/R1.JPG", "/galler/R2.JPG"],
     },
     {
       id: 2,
       caption:
-        "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallery/lonawala.jpg", "/gallery/lonawala2.jpg"],
+        "SOME TREDICTION PHOTO .",
+      photos: ["/gallery/367A8473 - Copy.JPG", "/gallery/R1.JPG"],
     },
   ],
   projects: [
     {
       id: 1,
       caption:
-        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
-      photos: ["/gallery/m.png", "/gallery/m2.jpeg"],
+        "IN MY FORVARATE CLOTH [KURATA].",
+      photos: ["/gallery/R1.JPG", "/gallery/R2.JPG"],
     },
     
     {
       id: 1,
       caption:
         "📂ProfileX - Smart Data Profiler + Preprocessor",
-      photos: ["/gallery/profilex.jpeg", "/gallery/profilex2.jpeg","/gallery/profilex3.jpeg", "/gallery/profilex4.jpeg"],
+      photos: ["/gallery/R1.JPG", "/gallery/R1.JPG","/gallery/R1.JPG", "/gallery/R1.JPG"],
     },
   ],
   achievements: [
     {
       id: 1,
       caption: "Solved 1000 LeetCode questions 🏆!",
-      photos: ["/gallery/leet.jpeg"],
+      photos: ["/gallery/R1.JPG"],
     },
     {
       id: 2,
       caption: "Technical Lead at SCET AI Club 🤖",
-      photos: ["/gallery/techlead.png"],
+      photos: ["/gallery/R1.JPG"],
     },
   ],
 };

@@ -9,7 +9,7 @@ const PROJECTS = [
     ss: '/mamo.png',
     tech: ['TensorFlow', 'Keras', 'OpenCV', 'YOLOv8'],
     live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    code: 'https://github.com/panderam1107/javacode'
   },
   {
   title: '🧠 Mental Health Analyzer',
@@ -17,7 +17,7 @@ const PROJECTS = [
   ss: '/mentalhealth.jpg',
   tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
   live: 'https://mental-health-analyzer.streamlit.app/',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
+  code: 'https://github.com/panderam1107/javacode'
   },
   {
     title: '🤖 Indian Sign Language Interpreter',
@@ -25,7 +25,7 @@ const PROJECTS = [
     ss: '/ISL.png',
     tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
     live: '#',
-    code: 'https://github.com/kunjdesai/ISL-Interpreter'
+    code: 'https://github.com/panderam1107/javacode'
   },
   {
   title: '💼 Portfolio Website',
@@ -33,7 +33,7 @@ const PROJECTS = [
   ss: '/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
-  code: 'https://github.com/kunj2803/Kunj-Portfolio'
+  code: 'https://github.com/panderam1107/javacode'
   },
   {
     title: '💬 DocuChat – Gemini AI Chatbot',
@@ -41,7 +41,7 @@ const PROJECTS = [
     ss: '/Docuchat.png',
     tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
     live: 'https://docuchat-chatbot.streamlit.app/',
-    code: 'https://github.com/kunj2803/Docuchat-Chatbot'
+    code: 'https://github.com/panderam1107/javacode'
   },
   {
     title: '📊 ProfileX – Data Profiler',
@@ -49,7 +49,7 @@ const PROJECTS = [
     ss: '/ProfileX.png',
     tech: ['Streamlit', 'Pandas', 'Plotly'],
     live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
+    code: 'https://github.com/panderam1107/javacode'
   },
   {
     title: '🧬 Breast Cancer Prediction',
@@ -57,7 +57,7 @@ const PROJECTS = [
     ss: '/breastpred.jpg',
     tech: ['scikit-learn', 'XGBoost', 'Pandas'],
     live: '#',
-    code: 'https://github.com/kunjdesai/BreastCancerPrediction'
+    code: 'https://github.com/panderam1107/javacode'
   }
 ]
 

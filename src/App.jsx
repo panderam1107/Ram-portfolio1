@@ -31,7 +31,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="footer">
-        © {new Date().getFullYear()} Kunj Desai — Built with React
+        © {new Date().getFullYear()} ram pande — Built with React
       </footer>
     </div>
   )

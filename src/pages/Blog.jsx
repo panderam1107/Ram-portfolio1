@@ -7,23 +7,23 @@ export default function Blog() {
   const defaultPosts = [
     {
       id: 1,
-      title: "Why I Love Building AI Projects",
-      text: "Working on AI-based systems like mammogram cancer detection has taught me how impactful technology can be when applied to healthcare. Combining deep learning with real-world problems is my favorite way to innovate.",
+      title: "Why did I choose Computer Science Engineering?",
+      text: "I chose Computer Science Engineering because I enjoy understanding how technology works and solving problems through programming. What started as simple curiosity about computers gradually became an interest in software development, artificial intelligence, and problem solving.",
     },
     {
       id: 2,
-      title: "My Thoughts on Design & Aesthetics",
-      text: "I believe design should be a balance between functionality and emotion. Dark themes with minimalist layouts always inspire me to create something that feels personal and futuristic.",
+      title: "What does programming mean to me?",
+      text: "Programming is more than writing code for me. It is a way of breaking a complex problem into smaller and understandable steps. When a program finally works after debugging several errors, it gives me a strong sense of achievement.",
     },
     {
       id: 3,
-      title: "Balancing Tech and Creativity",
-      text: "As someone who codes and dances, I’ve realized creativity isn’t limited to art — it also lives in algorithms. Each project is like choreography for the mind.",
+      title: "What is more important — coding or problem solving?",
+      text: "I believe problem solving is more important. A programmer may know many programming languages, but without the ability to understand and solve a problem, those languages are not very useful. Coding is the tool, while problem solving is the thinking behind the tool.",
     },
     {
       id: 4,
-      title: "The Beauty of Simple Code",
-      text: "Clean code isn’t just about fewer lines — it’s about clarity. Elegance in code feels like poetry to me — each function should have rhythm and purpose.",
+      title: "What is my biggest challenge as a Computer Science student?",
+      text: " My biggest challenge is learning many technologies while also building a strong foundation in programming and computer science concepts. Sometimes it is easy to jump from one technology to another, so I am learning to focus on fundamentals and practice consistently.",
     },
   ];
 

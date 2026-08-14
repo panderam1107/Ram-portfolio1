@@ -53,16 +53,16 @@ export default function Resume() {
         >
           <div>
             <h3 style={{ fontSize: 24, color: "#00b4ff", marginBottom: 4 }}>
-              👨‍💻 KUNJ D. DESAI
+              👨‍💻 RAM .V. PANDE
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year B.Tech — AI & Data Science | S.C.E.T, Sarvajanik University
+               3rd Year B.E. — Computer Science Engineering | HVPM of College of Engineering amaravti sgba.University
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              📍 Jahangirpura, Surat, Gujarat
+              📍 borgoan vairale dist akola maharasrta
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              ✉️ kunjd2803@gmail.com | 📞 +91 8758209508
+              ✉️ panderam1107@gmail.com | 📞 +91 772182075
             </p>
           </div>
 
@@ -80,10 +80,10 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              4th-year B.Tech AI student experienced in ML, DL, and computer vision.
-              Skilled in Python, TensorFlow, PyTorch, and Scikit-learn. Passionate about
-              building impactful AI systems and seeking opportunities to contribute to
-              real-world AI projects.
+            3 year  Computer Science Engineering student with a strong interest in Full Stack Web Development and Artificial Intelligence.
+             Skilled in C, Java, Python, HTML, CSS, JavaScript, and React. Passionate about
+             building responsive web applications, solving real-world problems, and continuously
+            improving programming and problem-solving skills.
             </p>
           </motion.div>
         </motion.div>
@@ -198,9 +198,9 @@ export default function Resume() {
           }}
         >
           {[
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/Kunj_2803/" },
-            { name: "💻 GitHub", link: "https://github.com/kunj2803" },
-            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
+            { name: "🏆 LeetCode", link: "https://leetcode.com/u/ram_pande11/" },
+            { name: "💻 GitHub", link: "https://github.com/panderam1107" },
+            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/ram-pande-ba335a393" },
           ].map((site) => (
             <motion.a
               key={site.name}
@@ -246,7 +246,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/resume.pdf"
+          href="/RRR.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}

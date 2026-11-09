@@ -358,3 +358,7 @@ form h3 {
   background-color: #ff4c4c;
   color: #0b0e14;
 }
+body {
+  background: #0a0a0f;
+  margin: 0;
+}

@@ -1,6 +1,11 @@
 {
-  
-  "name": "ashthetic-portfolio-final",
+
+
+
+
+
+
+  "name": "ram_portfolio-final",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -23,3 +28,4 @@
     "vite": "^5.0.0"
   }
 }
+
